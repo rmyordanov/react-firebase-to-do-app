@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-firebase-to-do-app/static/css/main.9be90568.css",
-    "main.js": "/react-firebase-to-do-app/static/js/main.69915320.js",
+    "main.js": "/react-firebase-to-do-app/static/js/main.8a57d4d1.js",
     "static/js/787.36f66e02.chunk.js": "/react-firebase-to-do-app/static/js/787.36f66e02.chunk.js",
     "index.html": "/react-firebase-to-do-app/index.html",
     "main.9be90568.css.map": "/react-firebase-to-do-app/static/css/main.9be90568.css.map",
-    "main.69915320.js.map": "/react-firebase-to-do-app/static/js/main.69915320.js.map",
+    "main.8a57d4d1.js.map": "/react-firebase-to-do-app/static/js/main.8a57d4d1.js.map",
     "787.36f66e02.chunk.js.map": "/react-firebase-to-do-app/static/js/787.36f66e02.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9be90568.css",
-    "static/js/main.69915320.js"
+    "static/js/main.8a57d4d1.js"
   ]
 }
